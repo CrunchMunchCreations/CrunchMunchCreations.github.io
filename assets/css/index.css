@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Bree Serif';
+    src: url('/assets/fonts/BreeSerif-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Frankfurter Std';
+    src: url('/assets/fonts/FrankfurterStd.otf');
+}
+
+body {
+    font-family: 'Bree Serif', 'Segoe UI', sans-serif;
+    overflow-x: hidden;
+}
+
+.font-header {
+    font-family: 'Frankfurter Std', 'Segoe UI', sans-serif;
+    color: #230d05;
+}
+
+.our-black {
+    color: #230d05;
+}
