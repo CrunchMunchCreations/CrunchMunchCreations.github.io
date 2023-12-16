@@ -12,5 +12,6 @@ export default defineNuxtConfig({
         head: {
             title: "CrunchMunch Creations"
         }
-    }
+    },
+    ssr: false
 });
