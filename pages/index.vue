@@ -33,9 +33,32 @@
         </div>
     </div>
 
-    <div class="top-0 left-0 w-screen h-screen bg-cover bg-center fixed -z-20" style="background-image: url('/screenshot.png');"></div>
+    <div class="top-0 left-0 w-screen h-screen bg-cover bg-center fixed -z-20 transition-all" id="slideshow"></div>
 </template>
 
-<script lang="ts" setup>
-    
+<script lang="ts">
+    let interval: NodeJS.Timeout | undefined;
+
+    export default {
+        async mounted() {
+            const screenshot = document.getElementById('slideshow');
+
+            try {
+                const screenshots = await (await fetch('/screenshots/screenshots.json')).json();
+                let i = Math.floor(Math.random() * screenshots.length);
+
+                interval = setInterval(async () => {
+                    screenshot!!.style.backgroundImage = `url('/screenshots/${screenshots[i++ % screenshots.length]}')`
+                }, 30_000);
+
+                screenshot!!.style.backgroundImage = `url('/screenshots/${screenshots[i++ % screenshots.length]}')`
+            } catch (e) {
+                console.error(e);
+                screenshot!!.style.backgroundImage = `url('/screenshot.png')`;
+            }
+        },
+        unmounted() {
+            clearInterval(interval);
+        }
+    }
 </script>

@@ -2,7 +2,7 @@
     <Title>About</Title>
 
     <div class="w-screen overflow-hidden">
-        <div class="w-1/2 mx-auto text-center">
+        <div class="sm:w-2/3 md:w-1/2 mx-auto text-center">
             <h3 class="our-black font-header text-center text-6xl mx-auto left-0 right-0 mt-16 my-8">How We Came To Be</h3>
 
             <p class="text-xl">
@@ -16,7 +16,7 @@
             </p>
         </div>
 
-        <div class="w-1/2 mx-auto text-center">
+        <div class="sm:w-2/3 md:w-1/2 mx-auto text-center">
             <h3 class="our-black font-header text-center text-6xl mx-auto left-0 right-0 mt-16 my-8">Our Vision</h3>
 
             <p class="text-xl">
@@ -28,7 +28,7 @@
             </p>
         </div>
 
-        <div class="w-1/2 mx-auto text-center">
+        <div class="sm:w-2/3 md:w-1/2 mx-auto text-center">
             <h3 class="our-black font-header text-center text-6xl mx-auto left-0 right-0 mt-16 my-8">Commissions</h3>
 
             <p class="text-xl">
