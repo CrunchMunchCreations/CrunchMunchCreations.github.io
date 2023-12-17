@@ -2,17 +2,17 @@
     <Title>About</Title>
 
     <div class="w-screen overflow-hidden">
-        <div class="sm:w-2/3 md:w-1/2 mx-auto text-center">
+        <div class="w-4/5 sm:w-2/3 md:w-1/2 mx-auto text-center">
             <h3 class="our-black font-header text-center text-6xl mx-auto left-0 right-0 mt-16 my-8">General Contact</h3>
 
             <p class="text-xl">
-                If you wish to contact a member in particular, you can find our socials in <a href="/about" class="underline hover:brightness-200">our About Us</a>!
+                If you wish to contact a member in particular, you can find our socials in our <a href="/about" class="underline hover:brightness-200">About Us</a>!
                 <br><br>
                 If you want to give us suggestions or chat in general, please join our <a href="https://discord.gg/rMuHUKzKXS" class="underline hover:brightness-200">Discord</a>!
             </p>
         </div>
 
-        <div class="sm:w-2/3 md:w-1/2 mx-auto text-center mb-80">
+        <div class="w-4/5 sm:w-2/3 md:w-1/2 mx-auto text-center mb-80">
             <h3 class="our-black font-header text-center text-6xl mx-auto left-0 right-0 mt-16 my-8">Business Inquiries</h3>
 
             <p class="text-xl">
