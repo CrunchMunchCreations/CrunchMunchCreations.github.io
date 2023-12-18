@@ -28,9 +28,13 @@
 
     useHead({
         meta: [
-        { 
+            { 
                 property: 'og:title', 
                 content: `${route.meta.title} - CrunchMunch Creations` 
+            },
+            {
+                name: 'description',
+                content: 'CrunchMunch Creations is a team of 3 Minecraft creators who enjoy creating whatever we like, collecting all of our projects under one name.'
             },
             {
                 property: 'og:type',
