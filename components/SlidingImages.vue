@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-green-800 w-3/4 mx-auto relative overflow-hidden group" style="aspect-ratio: 16/9;" id="sliding-images">
+    <div class="bg-green-800 w-full lg:w-3/4 mx-auto relative overflow-hidden group" style="aspect-ratio: 16/9;" id="sliding-images">
         <div class="controls absolute h-full w-full z-30 transition-all group-hover:opacity-100 opacity-0">
             <a class="bg-black bg-opacity-30 absolute h-full w-1/12 text-3xl flex text-center text-[#fff3e8] cursor-pointer hover:brightness-150" @click="prevItem()">
                 <div class="m-auto">
