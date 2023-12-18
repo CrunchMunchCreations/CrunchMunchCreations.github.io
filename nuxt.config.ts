@@ -3,7 +3,7 @@ export default defineNuxtConfig({
     modules: [
         '@nuxtjs/tailwindcss'
     ],
-    css: ['./assets/css/index.css', './assets/css/all.min.css', './assets/css/tailwind.css'],
+    css: ['~/assets/css/index.css', '~/assets/css/all.min.css', '~/assets/css/tailwind.css'],
     app: {
         head: {
             title: "CrunchMunch Creations"
