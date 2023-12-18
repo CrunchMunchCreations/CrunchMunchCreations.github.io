@@ -17,7 +17,9 @@
                 <div class="my-8">
                     <h3 class="font-header text-3xl">Entry Requirements</h3>
 
-                    You must be aged 16+ to apply for or take part in any CrunchMunch Creations events. To be a member of our Discord or community platforms,
+                    You must be aged 16+ to take part in any CrunchMunch Creations events.
+                    <br>
+                    To be a member of our Discord or community platforms,
                     you must be aged 13+.
                 </div>
 
@@ -49,15 +51,15 @@
                     <h3 class="font-header text-3xl">Marketing Materials</h3>
 
                     By accepting a position in a CrunchMunch Creations event, you agree to us using your creator name / nickname, profile picture, links,
-                    Minecraft skin / likeness, and any other public-facing information, for the purposes of marketing this event. These may also be used
-                    for promoting CrunchMunch Creations or any of its future events <span class="font-bold">in the context of your participation in this event</span>.
+                    Minecraft skin / likeness, and any other public-facing information, for the purposes of marketing our events, maps and mods. These may also be used
+                    for promoting CrunchMunch Creations or any of its future events <span class="font-bold">in the context of your participation in the event</span>.
                     <br><br>
                     Any events, mods, maps, etc. that are created by CrunchMunch Creations may be photographed, recorded, or livestreamed. This includes both on CrunchMunch
                     Creations related channels, as well as any personal channels belonging to the participants, that we do not have control over. By accepting a position in
                     any events, you agree to featuring in such photographs and recordings.
                     <br><br>
-                    By accepting a position in the event, you agree to us using clips or screenshots of your POV taken during the event, for the purposes of marketing this event.
-                    This may also include future events or CrunchMunch Creations as a whole <span class="font-bold">in the context of your participation in this event</span>,
+                    By accepting a position in an event, you agree to us using clips or screenshots of your POV taken during the event, for the purposes of marketing the event.
+                    This may also include future events or CrunchMunch Creations as a whole <span class="font-bold">in the context of your participation in the event</span>,
                     for example in any trailers. This may be displayed on the CrunchMunch Creations website, on our social medias, in our communications, or in-game. We will not
                     upload your Twitch VODs, footage edited by you, or any video content that primarily or exclusively focuses on you, to any CrunchMunch Creations-related channels
                     or platforms, without your informed consent.

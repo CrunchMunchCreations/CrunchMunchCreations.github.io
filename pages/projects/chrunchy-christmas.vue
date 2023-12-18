@@ -23,7 +23,7 @@
                     <br><br>
                     Chrunchy Christmas was first held on the 9th of December 2023, hosted alongside <a href="https://wraithstation.com" class="underline hover:brightness-200">WraithStation Productions</a> and <a href="https://vandal-events.gitlab.io" class="underline hover:brightness-200">Vandal Events</a>.
                     <br><br>
-                    We raised money for <a href="https://jinglejam.co.uk" class="underline hover:brightness-200">Jingle Jam</a>, and we managed to exceed our goal of £500!
+                    We raised money for <a href="https://jinglejam.co.uk" class="underline hover:brightness-200">Jingle Jam</a>, and we managed to raise over £650 for charity!
                 </p>
             </div>
         </div>

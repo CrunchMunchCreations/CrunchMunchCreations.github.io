@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-[#61809f] w-screen bottom-0 h-60 md:h-36 relative">
+    <div class="bg-[#61809f] w-screen bottom-0 h-84 md:h-36 relative">
         <div class="desktop md:block hidden">
             <div class="our-black sm:text-2xl float-left flex-row items-center align-middle">
                 <div class="m-auto absolute w-max h-fit top-0 bottom-0 text-center">
@@ -18,9 +18,9 @@
             </div>
 
             <div class="block sm:hidden relative mx-auto">
-                <p class="text-center our-black -top-8 absolute right-0 left-0 w-48 mx-auto my-8 sm:text-xl">Not affiliated with Mojang Studios or Microsoft.</p>
+                <p class="text-center our-black -top-8 absolute right-0 left-0 w-72 mx-auto sm:text-xl">CrunchMunch Creations is not an official Minecraft service, not affiliated, associated with or approved by Mojang Studios or Microsoft.</p>
             </div>
-            <p class="text-center our-black top-0 absolute right-8 w-48 mx-auto my-8 sm:text-xl hidden sm:block">Not affiliated with Mojang Studios or Microsoft.</p>
+            <p class="text-center our-black top-0 absolute right-8 w-72 mx-auto sm:text-xl hidden sm:block">CrunchMunch Creations is not an official Minecraft service, not affiliated, associated with or approved by Mojang Studios or Microsoft.</p>
         </div>
 
         <div class="mobile block md:hidden">
@@ -41,7 +41,7 @@
             </div>
 
             <div class="block mx-auto">
-                <p class="text-center our-black w-48 mx-auto text-xl">Not affiliated with Mojang Studios or Microsoft.</p>
+                <p class="text-center our-black w-72 mx-auto text-xl">CrunchMunch Creations is not an official Minecraft service, not affiliated, associated with or approved by Mojang Studios or Microsoft.</p>
             </div>
         </div>
     </div>

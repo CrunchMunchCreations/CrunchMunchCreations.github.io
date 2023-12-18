@@ -8,14 +8,21 @@
             </div>
 
             <SlidingImages>
-                <SlidingImage src="/projects/e.png" description="The central Technoblade statue" />
+                <SlidingImage src="/projects/e.png" description="The central Technoblade statue." />
+                <SlidingImage src="/projects/e/art_museum.png" description="The art museum, where over 100 submissions of fan-art resides." />
+                <SlidingImage src="/projects/e/castle.png" description="The central castle's entrance." />
+                <SlidingImage src="/projects/e/technodad_garden.png" description="Mr Technodad's garden area." />
+                <SlidingImage src="/projects/e/zen_garden.png" description="The Zen Garden." />
+                <SlidingImage src="/projects/e/potato_dome.png" description="A 99% accurate recreation of the iconic Potato Dome." />
             </SlidingImages>
         </div>
 
         <div class="w-full lg:w-1/2 block lg:flex">
             <div class="p-12 m-auto w-full md:w-2/3 text-center align-middle flex items-center">
                 <p class="text-2xl">
-                    The E Project is a work-in-progress Vanilla Minecraft map designed entirely around Technoblade and his memory, inspired by the Diversity map series by qmagnet.
+                    The E Project is a work-in-progress Vanilla Minecraft map designed entirely around Technoblade and his memory.
+                    <br><br>
+                    Inspired by the Diversity map series by qmagnet.
                 </p>
             </div>
         </div>

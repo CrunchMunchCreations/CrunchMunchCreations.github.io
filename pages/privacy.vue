@@ -11,8 +11,8 @@
                     <h3 class="font-header text-3xl">Definitions</h3>
                     
                     <ul class="text-left pl-5 list-disc" style="line-height: 2rem;">
-                        <li><strong>"CrunchMunch Creations"</strong> refers to the staff team of CrunchMunch Creations.</li>
-                        <li><strong>"CrunchMunch Creations organizers"</strong> refers to the organizers of CrunchMunch Creations, who are Zuite, BluSpring, and FlopsyMimi.</li>
+                        <li><strong>"CrunchMunch Creations"</strong> refers to the staff team of CrunchMunch Creations, including permanent and temporary helping staff.</li>
+                        <li><strong>"Organizer Team"</strong> refers to the organizer team of CrunchMunch Creations, who are Zuite, BluSpring, and FlopsyMimi.</li>
                         <li><strong>"CrunchMunch Creations website"</strong> refers to this website (www.crunchmunch.xyz) as well as subdomains of crunchmunch.xyz (such as www.subdomain.crunchmunch.xyz)</li>
                     </ul>
                 </div>
@@ -41,9 +41,11 @@
                         <li>publicly available information, such as your public profile information or stream analytics</li>
                     </ul>
 
+                    <br>
                     We collect this in order to:
 
                     <ul class="text-left pl-5 list-disc" style="line-height: 2rem;">
+                        <li>process applications</li>
                         <li>allow players to join and play on our Minecraft servers</li>
                         <li>allow other event functionality, such as team communication channels</li>
                         <li>send you information about the events you are participating in</li>
@@ -54,7 +56,7 @@
 
                     <br>
                     We only use your information for the purposes stated above. 
-                    Sensitive data such as IP address is only visible to the CrunchMunch Creations organizers,
+                    Sensitive data such as IP address is only visible to the Organizer Team,
                     with the exception of third parties as described below.
                 </div>
 
@@ -78,10 +80,10 @@
 
                     This privacy policy applies solely to information collected by CrunchMunch Creations.
                     <br><br>
-                    The CrunchMunch Creations website contain links to other website. We highly encourage you to read the privacy statements
+                    The CrunchMunch Creations website contain links to other websites. We highly encourage you to read the privacy statements
                     of each website that collects personally identifiable information.
                     <br><br>
-                    CrunchMunch Creations uses the following third-party tools, which may collect additional information in accordance with their overflow-hidden
+                    CrunchMunch Creations uses the following third-party tools, which may collect additional information in accordance with their
                     privacy policies.
                     <br><br>
                     Information may be shared with additional third-parties where we are required to do so by law.
@@ -139,6 +141,11 @@
                             </td>
                         </tr>
                     </table>
+                </div>
+                <div class="my-8">
+                    <h3 class="font-header text-3xl">Deletion of your Data</h3>
+
+                    You may request a copy or deletion of all data held about you by CrunchMunch Creations, by <a href="/contact" class="underline hover:brightness-200">contacting us</a>.
                 </div>
             </div>
         </div>
