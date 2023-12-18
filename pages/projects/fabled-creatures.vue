@@ -13,7 +13,7 @@
         </div>
 
         <div class="w-full lg:w-1/2 block lg:flex">
-            <div class="p-12 m-auto w-2/3 text-center align-middle flex items-center">
+            <div class="p-12 m-auto w-full md:w-2/3 text-center align-middle flex items-center">
                 <p class="text-2xl">
                     A work-in-progress Minecraft mod for Forge and Fabric that adds all kinds of new creatures to the game!
                     <br><br>

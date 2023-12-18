@@ -17,7 +17,7 @@
         </div>
 
         <div class="w-full lg:w-1/2 block lg:flex">
-            <div class="p-12 m-auto w-2/3 text-center align-middle flex items-center">
+            <div class="p-12 m-auto w-full md:w-2/3 text-center align-middle flex items-center">
                 <p class="text-2xl">
                     8 teams of 2 elves compete to prove their skills in making and delivering presents, in order to become Santa's newest helpers.
                     <br><br>

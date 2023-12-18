@@ -13,7 +13,7 @@
         </div>
 
         <div class="w-full lg:w-1/2 block lg:flex">
-            <div class="p-12 m-auto w-2/3 text-center align-middle flex items-center">
+            <div class="p-12 m-auto w-full md:w-2/3 text-center align-middle flex items-center">
                 <p class="text-2xl">
                     The E Project is a work-in-progress Vanilla Minecraft map designed entirely around Technoblade and his memory, inspired by the Diversity map series by qmagnet.
                 </p>
