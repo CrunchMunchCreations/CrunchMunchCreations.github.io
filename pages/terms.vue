@@ -50,13 +50,17 @@
                 <div class="my-8">
                     <h3 class="font-header text-3xl">Marketing Materials</h3>
 
-                    By accepting a position in a CrunchMunch Creations event, you agree to us using your creator name / nickname, profile picture, links,
-                    Minecraft skin / likeness, and any other public-facing information, for the purposes of marketing our events, maps and mods. These may also be used
-                    for promoting CrunchMunch Creations or any of its future events <span class="font-bold">in the context of your participation in the event</span>.
-                    <br><br>
                     Any events, mods, maps, etc. that are created by CrunchMunch Creations may be photographed, recorded, or livestreamed. This includes both on CrunchMunch
                     Creations related channels, as well as any personal channels belonging to the participants, that we do not have control over. By accepting a position in
                     any events, you agree to featuring in such photographs and recordings.
+
+                    <br><br>
+
+                    <h4 class="font-header text-2xl">Events</h4>
+
+                    By accepting a position in a CrunchMunch Creations event, you agree to us using your creator name / nickname, profile picture, links,
+                    Minecraft skin / likeness, and any other public-facing information, for the purposes of marketing our events, maps and mods. These may also be used
+                    for promoting CrunchMunch Creations or any of its future events <span class="font-bold">in the context of your participation in the event</span>.
                     <br><br>
                     By accepting a position in an event, you agree to us using clips or screenshots of your POV taken during the event, for the purposes of marketing the event.
                     This may also include future events or CrunchMunch Creations as a whole <span class="font-bold">in the context of your participation in the event</span>,
@@ -64,6 +68,16 @@
                     upload your Twitch VODs, footage edited by you, or any video content that primarily or exclusively focuses on you, to any CrunchMunch Creations-related channels
                     or platforms, without your informed consent.
                     <br><br>
+
+                    <h4 class="font-header text-2xl">Maps / Mods</h4>
+
+                    By creating any content of you playing in a CrunchMunch Creations map or using one of our mods (i.e. livestreaming, recording, photographing), 
+                    you agree to us sharing your content on our social medias and websites.
+                    <br>
+                    <span class="text-sm">(basically, we just want to scream about you playing our maps and mods, because we fangirl about things like this a lot)</span>
+
+                    <br><br>
+
                     We will not use your information, footage or likeness on commercial materials, such as on merchandise or on donation pages, or to imply an endorsement of
                     CrunchMunch Creations, without your informed consent.
                 </div>
