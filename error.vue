@@ -30,7 +30,7 @@
         meta: [
             { 
                 property: 'og:title', 
-                content: `${route.meta.title} - CrunchMunch Creations` 
+                content: `${route.meta.name} - CrunchMunch Creations` 
             },
             {
                 name: 'description',
