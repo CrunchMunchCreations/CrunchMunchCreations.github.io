@@ -17,7 +17,7 @@
             </a>
         </div>
     </div>
-    <div class="sm:hidden font-header text-4xl w-1/3 h-screen fixed top-0 bg-[#ef8aa8] z-50 flex flex-col transition-all duration-700" id="burger" style="left: -150%;">
+    <div class="sm:hidden font-header text-4xl w-2/3 h-screen fixed top-0 bg-[#ef8aa8] z-50 flex flex-col transition-all duration-700" id="burger" style="left: -150%;">
         <a :class="`${classes} float-left`" @click="toggleBurger()">
             <div class="py-3 px-3">
                 <i class="fas fa-bars"></i>
