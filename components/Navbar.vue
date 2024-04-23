@@ -3,13 +3,13 @@
         <div class="desktop sm:block hidden">
             <a href="/" :class="classes">HOME</a>
             <a href="/projects" :class="classes">PROJECTS</a>
-            <a href="/" :class="classes.replace('200', '125')"><img src="/chompers.png" class="h-12 md:h-24 inline"></a>
+            <a href="/" :class="classes.replace('200', '125')"><img src="/chompers.svg" class="h-12 md:h-24 inline"></a>
             <a href="/about" :class="classes">ABOUT</a>
             <a href="/contact" :class="classes">CONTACT</a>
             <div class="hover:brightness-125"></div>
         </div>
         <div class="mobile block sm:hidden h-full">
-            <a href="/" :class="`hover:brightness-125 absolute left-0 right-0 z-0 w-fit mx-auto`"><img src="/chompers.png" class="h-12 md:h-24 inline"></a>
+            <a href="/" :class="`hover:brightness-125 absolute left-0 right-0 z-0 w-fit mx-auto`"><img src="/chompers.svg" class="h-12 md:h-24 inline"></a>
             <a :class="`${classes} float-left text-4xl`" @click="toggleBurger()">
                 <div class="py-2 px-3">
                     <i class="fas fa-bars"></i>
