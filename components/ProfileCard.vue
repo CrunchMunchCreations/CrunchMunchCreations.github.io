@@ -1,6 +1,6 @@
 <template>
     <div class="w-80 rounded-t mx-auto px-1 my-2">
-        <img class="" :src="`/avatars/${id}.png`" :style="`background-color: ${color};`">
+        <img class="" :src="`/avatars/${id}.svg`" :style="`background-color: ${color};`">
 
         <div class="border-4 rounded-b text-center px-2 pb-4 pt-8" :style="`border-color: ${color};`">
             <h4 class="font-header text-4xl">{{ name }}</h4>
