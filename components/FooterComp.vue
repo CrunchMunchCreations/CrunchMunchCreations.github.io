@@ -10,10 +10,12 @@
 
             <div class="our-black text-4xl flex-row float-right items-center align-middle">
                 <div class="items-center align-middle my-auto mx-auto absolute top-0 bottom-0 left-0 right-0 text-center w-max h-fit">
-                    <a href="https://twitter.com/CrunchMunch_" class="mx-2 hover:brightness-200"><i class="fab fa-twitter"></i></a>
-                    <a href="https://discord.gg/rMuHUKzKXS" class="mx-2 hover:brightness-200"><i class="fab fa-discord"></i></a>
-                    <a href="https://github.com/CrunchMunchCreations" class="mx-2 hover:brightness-200"><i class="fab fa-github"></i></a>
-                    <a href="mailto:crunchmunchcreations@gmail.com" class="mx-2 hover:brightness-200"><i class="fas fa-envelope"></i></a>
+                    <a href="https://twitter.com/CrunchMunch_" class="mx-2 hover:brightness-200" title="Twitter"><i class="fab fa-twitter"></i></a>
+                    <!-- TODO: Update BlueSky icon to butterfly -->
+                    <a href="https://bsky.app/profile/crunchmunch.xyz" class="mx-2 hover:brightness-200" title="Bluesky"><i class="fas fa-cloud"></i></a>
+                    <a href="https://discord.gg/rMuHUKzKXS" class="mx-2 hover:brightness-200" title="Discord"><i class="fab fa-discord"></i></a>
+                    <a href="https://github.com/CrunchMunchCreations" class="mx-2 hover:brightness-200" title="GitHub"><i class="fab fa-github"></i></a>
+                    <a href="mailto:crunchmunchcreations@gmail.com" class="mx-2 hover:brightness-200" title="E-mail"><i class="fas fa-envelope"></i></a>
                 </div>
             </div>
 
@@ -33,10 +35,12 @@
 
             <div class="our-black text-4xl flex-row items-center align-middle text-center mx-auto">
                 <div class="items-center align-middle my-4 mx-auto text-center w-max h-fit">
-                    <a href="https://twitter.com/CrunchMunch_" class="mx-2 hover:brightness-200"><i class="fab fa-twitter"></i></a>
-                    <a href="https://discord.gg/rMuHUKzKXS" class="mx-2 hover:brightness-200"><i class="fab fa-discord"></i></a>
-                    <a href="https://github.com/CrunchMunchCreations" class="mx-2 hover:brightness-200"><i class="fab fa-github"></i></a>
-                    <a href="mailto:crunchmunchcreations@gmail.com" class="mx-2 hover:brightness-200"><i class="fas fa-envelope"></i></a>
+                    <a href="https://twitter.com/CrunchMunch_" class="mx-2 hover:brightness-200" title="Twitter"><i class="fab fa-twitter"></i></a>
+                    <!-- TODO: Update BlueSky icon to butterfly -->
+                    <a href="https://bsky.app/profile/crunchmunch.xyz" class="mx-2 hover:brightness-200" title="Bluesky"><i class="fas fa-cloud"></i></a>
+                    <a href="https://discord.gg/rMuHUKzKXS" class="mx-2 hover:brightness-200" title="Discord"><i class="fab fa-discord"></i></a>
+                    <a href="https://github.com/CrunchMunchCreations" class="mx-2 hover:brightness-200" title="GitHub"><i class="fab fa-github"></i></a>
+                    <a href="mailto:crunchmunchcreations@gmail.com" class="mx-2 hover:brightness-200" title="E-mail"><i class="fas fa-envelope"></i></a>
                 </div>
             </div>
 
