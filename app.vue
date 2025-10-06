@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="relative min-h-full">
         <Navbar />
         <NuxtPage />
         <FooterComp />
@@ -8,7 +8,7 @@
 
 <style>
     body {
-        background-color: #ffdea1;
+        background-color: #eeeeee;
         color: #230d05;
     }
 </style>

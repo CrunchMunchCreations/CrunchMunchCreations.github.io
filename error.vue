@@ -1,7 +1,7 @@
 <template>
     <Title>Error {{ error.statusCode }}</Title>
 
-    <div>
+    <div class="relative min-h-full">
         <Navbar />
         <div class="w-screen h-screen text-center mx-auto">
             <h4 class="font-header text-5xl mt-12 mb-12">Error {{ error.statusCode }}!</h4>
@@ -14,7 +14,7 @@
 
 <style>
     body {
-        background-color: #ffdea1;
+        background-color: #eeeeee;
         color: #230d05;
     }
 </style>

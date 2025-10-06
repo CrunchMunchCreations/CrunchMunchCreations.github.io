@@ -1,7 +1,9 @@
 <template>
-    <a :href="href" target=”_blank” class="socials-button w-72 hover:w-80 h-10 transition-all relative block text-[#fffcf3] py-2 px-5 rounded-full hover:brightness-125 m-2"  :style="`background: linear-gradient(to top right, #7777AF, ${color})`">
-        <span class="absolute left-0 ml-4">{{ name }}</span> 
-        <span class="absolute right-0 mr-4"><i :class="icon"></i></span>
+    <a :href="href" target=”_blank” class="text-[#fffcf3] hover:brightness-125">
+        <div :style="`background: ${color}`" class="rounded-full py-2 text-left flex justify-between px-4">
+            <span class="mr-4">{{ name }}</span>
+            <span><i :class="icon"></i></span>
+        </div>
     </a>
 </template>
 

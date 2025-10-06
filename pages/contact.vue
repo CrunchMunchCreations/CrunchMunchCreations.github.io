@@ -6,7 +6,7 @@
             <h3 class="our-black font-header text-center text-6xl mx-auto left-0 right-0 mt-16 my-8">General Contact</h3>
 
             <p class="text-xl">
-                If you wish to contact a member in particular, you can find our socials in our <a href="/about" class="underline hover:brightness-200">About Us</a>!
+                If you wish to contact a member in particular, you can find our socials in our <NuxtLink to="/about" class="underline hover:brightness-200">About Us</NuxtLink>!
                 <br><br>
                 If you want to give us suggestions or chat in general, please join our <a href="https://discord.gg/rMuHUKzKXS" class="underline hover:brightness-200">Discord</a>!
             </p>

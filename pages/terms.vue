@@ -11,7 +11,7 @@
                     These terms all apply to anything hosted by CrunchMunch Creations, whether events, Minecraft maps, mods, etc.
                     <br><br>
 
-                    If you have any questions relating to these terms, or any other terms in whatever we host, you can view our <a class="underline hover:brightness-200" href="/contact">Contact Us</a> page.
+                    If you have any questions relating to these terms, or any other terms in whatever we host, you can view our <NuxtLink class="underline hover:brightness-200" href="/contact">Contact Us</NuxtLink> page.
                 </div>
 
                 <div class="my-8">

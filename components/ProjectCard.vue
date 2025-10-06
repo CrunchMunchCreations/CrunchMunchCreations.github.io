@@ -1,5 +1,5 @@
 <template>
-    <a :href="`/projects/${id}`" class="2xl:w-1/2 md:w-2/3 mx-auto my-4 flex relative rounded group" :style="`background: ${color};`">
+    <NuxtLink :to="`/projects/${id}`" class="2xl:w-1/2 md:w-2/3 mx-auto my-4 flex relative rounded group" :style="`background: ${color};`">
         <div class="desktop h-96 2xl:h-48 w-full hidden md:block">
             <div v-if="!right" :class="`h-full w-1/2 group-hover:w-[52%] bg-center group-hover:bg-[110%] transition-all bg-green-800 group-hover:brightness-110 ${!!right ? 'right-project' : 'left-project'} bg-cover`" :style="`background-image: url(/projects/${id}.png);`"></div>
             <div :class="`inline-block p-4 w-1/2 float-${!right ? 'right' : 'left'} text-${!right ? 'right' : 'left'} absolute ${!right ? 'right' : 'left'}-0`">
@@ -18,7 +18,7 @@
                 <p class="mx-4">{{ description }}</p>
             </div>
         </div>
-    </a>
+    </NuxtLink>
 </template>
 
 <script lang="ts">

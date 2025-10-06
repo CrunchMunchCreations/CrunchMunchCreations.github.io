@@ -48,6 +48,7 @@
                     <ProfileCard id="zuite" name="Zuite" description="Always bringing Blu and Mimi along with her." role="Lead Organizer & Builder" color="#e43467" twitter="Zuite_" youtube="@Zuite_" twitch="zuite" discord="401828972163497994" />
                     <ProfileCard id="bluspring" name="BluSpring" description="Loves to do everything, even when he's not supposed to." role="Lead Developer" color="#4b547b" twitter="BluSpringg" youtube="@BluSpringg" twitch="bluspring" discord="742595879520698429" />
                     <ProfileCard id="flopsymimi" name="FlopsyMimi" description="The greatest idiot-proofer, and moral support bunny." role="Organizer & Builder" color="#fabb4e" twitter="flopsymimi" youtube="@flopsymimi" twitch="flopsymimi" discord="554791000154046496" />
+                    <ProfileCard id="overpoweredpeaches" name="Peaches" description="Coming in late to the party, they help make sure we're actually doing our tasks. Probably." role="Project Manager & Social Media Manager" color="#fabb4e" twitter="Overpowpeaches" twitch="oppeaches" discord="291409961173647360" />
                 </div>
             </div>
         </div>

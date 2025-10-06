@@ -2,9 +2,9 @@
     <Title>Privacy Policy</Title>
 
     <div class="w-screen overflow-hidden text-center">
-        <div class="w-2/3 md:w-1/2 mx-auto">
+        <div class="w-3/4 md:w-1/2 mx-auto">
             <h3 class="font-header our-black text-5xl mt-12">Privacy Policy</h3>
-            <h5 class="our-black text-2xl my-8">Last updated 18th December 2023</h5>
+            <h5 class="our-black text-2xl my-8">Last updated 4th October 2025</h5>
 
             <div class="text-xl">
                 <div class="my-8">
@@ -12,7 +12,7 @@
                     
                     <ul class="text-left pl-5 list-disc" style="line-height: 2rem;">
                         <li><strong>"CrunchMunch Creations"</strong> refers to the staff team of CrunchMunch Creations, including permanent and temporary helping staff.</li>
-                        <li><strong>"Organizer Team"</strong> refers to the organizer team of CrunchMunch Creations, who are Zuite, BluSpring, and FlopsyMimi.</li>
+                        <li><strong>"Organizer Team"</strong> refers to the organizer team of CrunchMunch Creations, who are Zuite, BluSpring, FlopsyMimi, and Overpoweredpeaches.</li>
                         <li><strong>"CrunchMunch Creations website"</strong> refers to this website (www.crunchmunch.xyz) as well as subdomains of crunchmunch.xyz (such as www.subdomain.crunchmunch.xyz)</li>
                     </ul>
                 </div>
@@ -89,65 +89,71 @@
                     Information may be shared with additional third-parties where we are required to do so by law.
 
                     <table class="w-full my-8" style="line-height: 2.5rem;">
-                        <tr class="font-header text-3xl">
-                            <th>Purpose</th>
-                            <th>Website Links</th>
-                        </tr>
+                        <thead>
+                            <tr class="font-header text-3xl">
+                                <th>Purpose</th>
+                                <th>Website Links</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Website, Repository & Domain Hosting</td>
+                                <td>
+                                    <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement" class="underline">GitHub</a>,
+                                    <a href="https://www.cloudflare.com/privacypolicy/" class="underline">Cloudflare</a>
+                                </td>
+                            </tr>
 
-                        <tr>
-                            <td>Website, Repository & Domain Hosting</td>
-                            <td>
-                                <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement" class="underline hover:brightness-200">GitHub</a>,
-                                <a href="https://www.cloudflare.com/privacypolicy/" class="underline hover:brightness-200">Cloudflare</a>
-                            </td>
-                        </tr>
+                            <tr>
+                                <td>Admin tools, such as documents and forms</td>
+                                <td>
+                                    <a href="https://policies.google.com/privacy" class="underline">Google</a>
+                                </td>
+                            </tr>
 
-                        <tr>
-                            <td>Admin tools, such as documents and forms</td>
-                            <td>
-                                <a href="https://policies.google.com/privacy" class="underline hover:brightness-200">Google</a>
-                            </td>
-                        </tr>
+                            <tr>
+                                <td>Mod & Map Distribution</td>
+                                <td>
+                                    <a href="https://modrinth.com/legal/privacy" class="underline">Modrinth</a>,
+                                    <a href="https://www.overwolf.com/legal/privacy/" class="underline">CurseForge</a>
+                                </td>
+                            </tr>
 
-                        <tr>
-                            <td>Mod & Map Distribution</td>
-                            <td>
-                                <a href="https://modrinth.com/legal/privacy" class="underline hover:brightness-200">Modrinth</a>,
-                                <a href="https://www.overwolf.com/legal/privacy/" class="underline hover:brightness-200">CurseForge</a>
-                            </td>
-                        </tr>
+                            <tr>
+                                <td>Community & Marketing</td>
+                                <td>
+                                    <a href="https://discord.com/privacy" class="underline">Discord</a>,
+                                    <a href="https://twitter.com/en/privacy" class="underline">Twitter</a>,
+                                    <a href="https://bsky.social/about/support/privacy-policy" class="underline">BlueSky</a>
+                                </td>
+                            </tr>
 
-                        <tr>
-                            <td>Community & Marketing</td>
-                            <td>
-                                <a href="https://discord.com/privacy" class="underline hover:brightness-200">Discord</a>,
-                                <a href="https://twitter.com/en/privacy" class="underline hover:brightness-200">Twitter</a>
-                            </td>
-                        </tr>
+                            <tr>
+                                <td>Minecraft Server Hosting</td>
+                                <td>
+                                    <a href="https://bloom.host/privacy-policy/" class="underline">Bloom Host</a>
+                                </td>
+                            </tr>
 
-                        <tr>
-                            <td>Minecraft Server Hosting</td>
-                            <td>
-                                <a href="https://bloom.host/privacy-policy/" class="underline hover:brightness-200">Bloom Host</a>
-                            </td>
-                        </tr>
-
-                        <tr>
-                            <td>Donations & Fundraising</td>
-                            <td>
-                                <a href="https://more.ko-fi.com/privacy" class="underline hover:brightness-200">Ko-Fi</a>,
-                                <a href="https://tiltify.com/pages/privacy-policy" class="underline hover:brightness-200">Tiltify</a>,
-                                <a href="https://www.paypal.com/webapps/mpp/ua/privacy-full" class="underline hover:brightness-200">PayPal</a>
-                            </td>
-                        </tr>
+                            <tr>
+                                <td>Donations & Fundraising</td>
+                                <td>
+                                    <a href="https://more.ko-fi.com/privacy" class="underline">Ko-fi</a>,
+                                    <a href="https://tiltify.com/pages/privacy-policy" class="underline">Tiltify</a>,
+                                    <a href="https://www.paypal.com/webapps/mpp/ua/privacy-full" class="underline">PayPal</a>
+                                </td>
+                            </tr>
+                        </tbody>
                     </table>
                 </div>
                 <div class="my-8">
                     <h3 class="font-header text-3xl">Deletion of your Data</h3>
 
-                    You may request a copy or deletion of all data held about you by CrunchMunch Creations, by <a href="/contact" class="underline hover:brightness-200">contacting us</a>.
+                    You may request a copy or deletion of all data held about you by CrunchMunch Creations, by <NuxtLink to="/contact">contacting us</NuxtLink>.
                 </div>
             </div>
         </div>
     </div>
 </template>
+<script setup lang="ts">
+</script>

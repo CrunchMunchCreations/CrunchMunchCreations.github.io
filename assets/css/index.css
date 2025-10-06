@@ -20,3 +20,12 @@ body {
 .our-black {
     color: #230d05;
 }
+
+html, body {
+    height: 100%;
+}
+
+a:hover {
+    filter: brightness(200%);
+    text-decoration: underline;
+}
