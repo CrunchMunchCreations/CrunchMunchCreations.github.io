@@ -37,9 +37,10 @@
 </template>
 
 <script lang="ts" setup>
-
 import SlidingImages from "~/components/SlidingImages.vue";
 import SlidingImage from "~/components/SlidingImage.vue";
+
+setPageLayout('default');
 </script>
 
 <style>

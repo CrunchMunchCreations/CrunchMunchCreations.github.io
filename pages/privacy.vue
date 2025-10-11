@@ -155,5 +155,7 @@
         </div>
     </div>
 </template>
+
 <script setup lang="ts">
+setPageLayout('default');
 </script>

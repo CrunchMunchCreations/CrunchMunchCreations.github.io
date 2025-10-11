@@ -15,6 +15,8 @@
                     }
                 ]
             });
+
+            setPageLayout('default');
         }
     }
 </script>

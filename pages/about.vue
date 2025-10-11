@@ -53,7 +53,7 @@
 </template>
 
 <script lang="ts" setup>
-
+setPageLayout('default');
 </script>
 
 <style>

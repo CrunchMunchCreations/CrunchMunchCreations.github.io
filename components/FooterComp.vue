@@ -2,8 +2,9 @@
     <footer class="bg-[#3a2819] text-[#ffffff] w-full left-0 bottom-0 flex justify-between text-sm md:text-xl p-4">
         <div class="flex flex-col justify-center">
             <div class="flex flex-col">
-                <NuxtLink to="/terms">Terms & Conditions</NuxtLink>
-                <NuxtLink to="/privacy">Privacy Policy</NuxtLink>
+                <!-- to future me who will probably be asked to refactor this website again: don't try to set this to NuxtLink, you will suffer. -->
+                <a href="/terms">Terms & Conditions</a>
+                <a href="/privacy">Privacy Policy</a>
             </div>
 
             <div class="text-2xl py-4">

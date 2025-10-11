@@ -21,6 +21,8 @@
         </div>
     </div>
 </template>
+
 <script setup lang="ts">
 import GalleryCard from "~/components/home/GalleryCard.vue";
+setPageLayout('default');
 </script>

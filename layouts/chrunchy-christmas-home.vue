@@ -3,7 +3,7 @@
     <FooterComp />
 </template>
 
-<style>
+<style >
 body {
     background-color: #062f27;
     color: #ffffff;
