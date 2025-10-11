@@ -1,11 +1,11 @@
 <template>
     <Title>About</Title>
 
-    <div class="w-screen flex flex-col badge-bg p-12">
+    <div class="w-screen flex flex-col badge-bg sm:p-12">
         <div class="text-center w-1/2 mx-auto my-12">
-            <h1 class="font-header uppercase text-7xl">About</h1>
+            <h1 class="font-header uppercase text-4xl md:text-7xl">About</h1>
         </div>
-        <div class="rounded-lg bg-[#04231d] p-12 w-2/3 md:w-1/2 mx-auto flex flex-col">
+        <div class="rounded-lg bg-[#04231d] p-12 w-full sm:w-4/5 md:w-2/3 xl:w-3/4 3xl:w-1/2 mx-auto flex flex-col">
             <div class="my-8">
                 <h2 class="font-header text-3xl uppercase">What is Chrunchy Christmas?</h2>
                 <p>

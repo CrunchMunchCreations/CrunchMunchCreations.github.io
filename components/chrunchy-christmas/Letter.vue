@@ -1,13 +1,13 @@
 <template>
-    <div class="aspect-video w-[65rem] mx-auto stripes p-8 mb-48">
+    <div class="md:aspect-video w-[25rem] sm:w-[45rem] md:w-[65rem] mx-auto stripes p-8 mb-48">
         <div class="h-full w-full bg-[#f4e6df] relative p-4 flex justify-between">
-            <div>
+            <div class="aspect-square">
                 <img :src="`/projects/chrunchy-christmas/${image}`" class="aspect-square h-full object-cover">
             </div>
-            <div class="text-center w-1/2 p-8 flex-col flex justify-center text-black">
+            <div class="text-center md:w-1/2 p-8 flex-col flex justify-center text-black">
                 <div>
-                    <h1 class="font-header text-3xl">{{ name }}</h1>
-                    <p class="text-xl font-semibold p-8">
+                    <h1 class="font-header md:text-3xl">{{ name }}</h1>
+                    <p class="md:text-xl font-semibold p-8">
                         <slot />
                     </p>
                 </div>

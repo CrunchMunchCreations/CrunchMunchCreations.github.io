@@ -5,5 +5,5 @@ export default {
 </script>
 
 <template>
-    <a :href="url" :title="name" class="flex mx-4 hover:brightness-125" target="_blank"><img class="bg-white rounded-full" :src="`/avatars/${avatar}.png`"></a>
+    <a :href="url" :title="name" class="flex mx-4 hover:brightness-125 aspect-square" target="_blank"><img class="bg-white rounded-full aspect-square" :src="`/avatars/${avatar}.png`"></a>
 </template>

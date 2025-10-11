@@ -1,12 +1,12 @@
 <template>
     <Title>Teams</Title>
 
-    <div class="w-screen flex flex-col christmas-bg p-12">
+    <div class="w-screen flex flex-col christmas-bg p-2 lg:p-12">
         <div class="text-center w-1/2 mx-auto my-12">
-            <h1 class="font-header uppercase text-7xl">Meet the Teams!</h1>
-            <p class="text-2xl font-semibold">The teams for the 2025 Chrunchy Christmas event has yet to be announced.</p>
+            <h1 class="font-header uppercase text-4xl md:text-7xl">Meet the Teams!</h1>
+            <p class="text-sm md:text-2xl font-semibold">The teams for the 2025 Chrunchy Christmas event has yet to be announced.</p>
         </div>
-        <div class="rounded-lg bg-[#04231d] p-12 w-4/5 md:w-2/3 4xl:w-1/2 mx-auto flex flex-col">
+        <div class="rounded-lg bg-[#04231d] p-2 lg:p-12 w-full sm:w-4/5 md:w-2/3 xl:w-3/4 3xl:w-1/2 mx-auto flex flex-col">
             <TeamInfo name="Team Crimson" id="crimson">
                 <TeamMember url="" name="(unknown)" avatar="unknown_avatar"  />
                 <TeamMember url="" name="(unknown)" avatar="unknown_avatar"  />

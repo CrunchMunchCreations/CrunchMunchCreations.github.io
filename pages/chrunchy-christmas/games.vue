@@ -4,8 +4,8 @@
     <div class="w-screen flex flex-col">
         <div class="christmas-bg relative">
             <div class="px-8 py-24 text-center">
-                <h2 class="font-header text-8xl uppercase">Games</h2>
-                <p class="text-xl px-4">
+                <h2 class="font-header text-4xl md:text-7xl uppercase">Games</h2>
+                <p class="text-sm md:text-xl px-4">
                     The minigames that will be played during the event!
                 </p>
             </div>
