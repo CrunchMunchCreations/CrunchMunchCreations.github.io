@@ -15,7 +15,20 @@
 <style>
     body {
         background-color: #eeeeee;
-        color: #230d05;
+        color: var(--our-black);
+    }
+
+    body {
+        font-family: 'Bree Serif', 'Segoe UI', sans-serif;
+        overflow-x: hidden;
+    }
+
+    .font-header {
+        font-family: 'Frankfurter Std', 'Segoe UI', sans-serif;
+    }
+
+    .our-black {
+        color: var(--our-black);
     }
 </style>
 
