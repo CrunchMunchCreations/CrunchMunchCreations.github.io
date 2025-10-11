@@ -9,5 +9,10 @@ export default defineNuxtConfig({
             title: "CrunchMunch Creations"
         }
     },
-    ssr: false
+    ssr: false,
+    vite: {
+        server: {
+            allowedHosts: true
+        }
+    }
 });

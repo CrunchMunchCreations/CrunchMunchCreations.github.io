@@ -6,12 +6,11 @@
             <NuxtLink to="/projects">Projects</NuxtLink>
             <NuxtLink to="/about">About</NuxtLink>
             <NuxtLink to="/contact">Contact</NuxtLink>
-            <div class="hover:brightness-125"></div>
         </div>
     </header>
 </template>
 
-<style>
+<style scoped>
     .navbar-color {
         background-color: #acc270;
     }

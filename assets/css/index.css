@@ -8,17 +8,14 @@
     src: url('/assets/fonts/FrankfurterStd.otf');
 }
 
-body {
-    font-family: 'Bree Serif', 'Segoe UI', sans-serif;
-    overflow-x: hidden;
+@font-face {
+    font-family: 'Salisbury';
+    src: url('/assets/fonts/SalisburyBold.ttf');
 }
 
-.font-header {
-    font-family: 'Frankfurter Std', 'Segoe UI', sans-serif;
-}
-
-.our-black {
-    color: #230d05;
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/assets/fonts/Montserrat.ttf');
 }
 
 html, body {
