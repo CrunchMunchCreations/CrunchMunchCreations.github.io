@@ -23,7 +23,7 @@
                     Creators play as teams of elves, competing to show Santa their skills of making, travelling with and delivering presents,
                     in the hope that they get to help Santa deliver presents on Christmas Eve.
                     <br><br>
-                    Chrunchy Christmas was first held on the 9th of December 2023, hosted alongside <a href="https://wraithstation.com" class="underline">WraithStation</a> and <a href="https://vandal-events.gitlab.io" class="underline">Vandal Events</a>,
+                    Chrunchy Christmas was first held on the 9th of December 2023, hosted alongside <a href="https://wraithstation.com" class="underline" target="_blank">WraithStation</a> and <a href="https://vandal-events.gitlab.io" class="underline" target="_blank">Vandal Events</a>,
                     raising a total of £650, surpassing our goal of £500.
                     <br><br>
                     It was held for a second year on the 13th and 14th December 2024 in collaboration with Jinglecrafters, where we raised a total of £1000 over the two days, hitting our goal!

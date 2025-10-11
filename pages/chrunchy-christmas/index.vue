@@ -58,7 +58,7 @@
                     <p class="mx-auto text-xl">
                         Chrunchy Christmas is all about goodwill and giving to those in need; therefore,
                         we are asking you to open your heart to this year's fundraiser, Jingle Jam.
-                        <a href="https://www.jinglejam.co.uk/" class="underline">Click here to learn more about it!</a>
+                        <a href="https://www.jinglejam.co.uk/" class="underline" target="_blank">Click here to learn more about it!</a>
                     </p>
                 </div>
             </div>

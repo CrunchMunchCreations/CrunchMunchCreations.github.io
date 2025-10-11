@@ -12,14 +12,14 @@
                     Jingle Jam is an annual fundraiser that aims to support charities that are making a difference in the world for children and young people.
                     This year, it's uniting  games, creators and their communities to raise money for the following charities:
                     <ul class="list-disc list-inside">
-                        <li><a href="https://www.thecalmzone.net/">Campaign Against Living Miserably (CALM)</a></li>
-                        <li><a href="https://www.warchild.org.uk/">War Child</a></li>
-                        <li><a href="https://www.autistica.org.uk/">Autistica</a></li>
-                        <li><a href="https://becomecharity.org.uk/">Become</a></li>
-                        <li><a href="https://www.grandappeal.org.uk/">The Grand Appeal</a></li>
-                        <li><a href="https://worldwish.org/">Make-A-Wish</a></li>
-                        <li><a href="https://www.thetrevorproject.org/">The Trevor Project</a></li>
-                        <li><a href="https://www.wwf.org.uk/">Worldwide Fund for Nature (WWF)</a></li>
+                        <li><a href="https://www.thecalmzone.net/" target="_blank">Campaign Against Living Miserably (CALM)</a></li>
+                        <li><a href="https://www.warchild.org.uk/" target="_blank">War Child</a></li>
+                        <li><a href="https://www.autistica.org.uk/" target="_blank">Autistica</a></li>
+                        <li><a href="https://becomecharity.org.uk/" target="_blank">Become</a></li>
+                        <li><a href="https://www.grandappeal.org.uk/" target="_blank">The Grand Appeal</a></li>
+                        <li><a href="https://worldwish.org/" target="_blank">Make-A-Wish</a></li>
+                        <li><a href="https://www.thetrevorproject.org/" target="_blank">The Trevor Project</a></li>
+                        <li><a href="https://www.wwf.org.uk/" target="_blank">Worldwide Fund for Nature (WWF)</a></li>
                     </ul>
                 </div>
             </div>
