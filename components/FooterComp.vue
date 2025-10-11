@@ -1,5 +1,5 @@
 <template>
-    <footer class="bg-[#3a2819] text-[#ffffff] w-full left-0 bottom-0 flex justify-between text-xl p-4">
+    <footer class="bg-[#3a2819] text-[#ffffff] w-full left-0 bottom-0 flex justify-between text-sm md:text-xl p-4">
         <div class="flex flex-col justify-center">
             <div class="flex flex-col">
                 <NuxtLink to="/terms">Terms & Conditions</NuxtLink>
