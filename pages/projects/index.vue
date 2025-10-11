@@ -1,7 +1,7 @@
 <template>
     <Title>Projects</Title>
 
-    <div class="w-screen overflow-hidden" data-v-inspector="pages/projects/index.vue:4:5">
+    <div class="w-screen min-h-screen" data-v-inspector="pages/projects/index.vue:4:5">
         <h3 class="our-black font-header text-center text-6xl mx-auto left-0 right-0 my-16" data-v-inspector="pages/projects/index.vue:5:9">Our Projects</h3>
 
         <div class="mx-auto mb-24" data-v-inspector="pages/projects/index.vue:7:9">

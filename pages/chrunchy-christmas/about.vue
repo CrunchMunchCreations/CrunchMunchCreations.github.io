@@ -1,7 +1,7 @@
 <template>
     <Title>About</Title>
 
-    <div class="w-screen flex flex-col badge-bg sm:p-12">
+    <div class="w-screen flex flex-col badge-bg sm:p-12 min-h-screen">
         <div class="text-center w-1/2 mx-auto my-12">
             <h1 class="font-header uppercase text-4xl md:text-7xl">About</h1>
         </div>

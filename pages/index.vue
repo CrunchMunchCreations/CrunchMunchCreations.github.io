@@ -1,7 +1,7 @@
 <template>
     <Title>Home</Title>
 
-    <div class="p-12 flex justify-between flex-col 2xl:flex-row">
+    <div class="p-12 flex justify-between flex-col 2xl:flex-row min-h-screen">
         <div class="md:text-left text-center">
             <h1 class="font-header text-3xl sm:text-5xl md:text-8xl">CrunchMunch<br>Creations</h1>
             <p class="text-xl md:text-3xl max-w-4xl py-8">

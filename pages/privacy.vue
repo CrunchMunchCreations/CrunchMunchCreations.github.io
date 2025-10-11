@@ -1,7 +1,7 @@
 <template>
     <Title>Privacy Policy</Title>
 
-    <div class="w-screen overflow-hidden text-center">
+    <div class="w-screen text-center min-h-screen">
         <div class="w-3/4 md:w-1/2 mx-auto">
             <h3 class="font-header our-black text-5xl mt-12">Privacy Policy</h3>
             <h5 class="our-black text-2xl my-8">Last updated 4th October 2025</h5>

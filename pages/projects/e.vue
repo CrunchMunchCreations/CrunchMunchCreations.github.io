@@ -1,7 +1,7 @@
 <template>
     <Title>The E Project</Title>
 
-    <div class="w-screen flex flex-col lg:flex-row">
+    <div class="w-screen flex flex-col lg:flex-row min-h-screen">
         <div class="w-full lg:w-1/2 bg-[#fff3e8]">
             <div class="p-12 mx-auto w-full lg:w-2/3">
                 <h3 class="font-header text-center text-6xl">The E Project</h3>

@@ -1,7 +1,7 @@
 <template>
     <Title>Games</Title>
 
-    <div class="w-screen flex flex-col">
+    <div class="w-screen flex flex-col min-h-screen">
         <div class="christmas-bg relative">
             <div class="px-8 py-24 text-center">
                 <h2 class="font-header text-4xl md:text-7xl uppercase">Games</h2>

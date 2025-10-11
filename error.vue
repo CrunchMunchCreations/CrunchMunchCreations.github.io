@@ -3,7 +3,7 @@
 
     <div class="relative min-h-full">
         <Navbar />
-        <div class="w-screen h-screen text-center mx-auto">
+        <div class="w-screen h-screen text-center mx-auto min-h-screen">
             <h4 class="font-header text-5xl mt-12 mb-12">Error {{ error.statusCode }}!</h4>
 
             <a class="text-3xl underline cursor-pointer hover:brightness-200" @click="clearError({ redirect: '/' })">Return to Home</a>

@@ -1,7 +1,7 @@
 <template>
     <Title>Home</Title>
 
-    <div class="w-screen flex flex-col">
+    <div class="w-screen flex flex-col min-h-screen christmas-bg">
         <div class="w-full bg-[#720107] pb-12 badge-jingles-bg">
             <header class="navbar-color w-screen md:px-12 py-2 top-0 left-0 z-50 text-center flex justify-center my-8">
                 <div class="lg:space-x-8 space-y-4 lg:space-y-0 my-auto font-medium flex flex-col lg:flex-row">
@@ -34,7 +34,7 @@
                 </p>
             </div>
         </div>
-        <div class="christmas-bg relative">
+        <div class="relative">
             <div class="flex flex-col m-12">
                 <div class="flex justify-center my-12">
                     <!--<div class="w-96 flex justify-end">

@@ -1,6 +1,6 @@
 <template>
     <NuxtLink :to="`/projects/${id}`" class="w-9/10 2xl:w-1/2 md:w-2/3 mx-auto my-4 flex relative rounded group hover:brightness-110" :style="`background: ${color};`">
-        <div class="h-96 2xl:h-48 w-full flex">
+        <div class="h-96 2xl:h-48 w-full flex justify-between">
             <div class="p-4 float-left text-left">
                 <h4 class="font-header text-3xl">{{ name }}</h4>
                 <p class="mx-4">{{ description }}</p>

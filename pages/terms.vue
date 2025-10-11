@@ -1,7 +1,7 @@
 <template>
     <Title>Terms & Conditions</Title>
 
-    <div class="w-screen overflow-hidden text-center">
+    <div class="w-screen text-center min-h-screen">
         <div class="w-2/3 md:w-1/2 mx-auto">
             <h3 class="font-header our-black text-5xl mt-12">Terms & Conditions</h3>
             <h5 class="our-black text-2xl my-8">Last updated 18th December 2023</h5>

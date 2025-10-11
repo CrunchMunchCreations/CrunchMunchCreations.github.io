@@ -1,7 +1,7 @@
 <template>
     <Title>Teams</Title>
 
-    <div class="w-screen flex flex-col christmas-bg p-2 lg:p-12">
+    <div class="w-screen flex flex-col christmas-bg p-2 lg:p-12 min-h-screen">
         <div class="text-center w-1/2 mx-auto my-12">
             <h1 class="font-header uppercase text-4xl md:text-7xl">Meet the Teams!</h1>
             <p class="text-sm md:text-2xl font-semibold">The teams for the 2025 Chrunchy Christmas event has yet to be announced.</p>

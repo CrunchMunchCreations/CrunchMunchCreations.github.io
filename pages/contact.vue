@@ -1,7 +1,7 @@
 <template>
     <Title>About</Title>
 
-    <div class="w-screen overflow-hidden">
+    <div class="w-screen min-h-screen">
         <div class="w-4/5 sm:w-2/3 md:w-1/2 mx-auto text-center">
             <h3 class="our-black font-header text-center text-6xl mx-auto left-0 right-0 mt-16 my-8">General Contact</h3>
 
