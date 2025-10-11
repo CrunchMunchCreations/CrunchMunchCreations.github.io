@@ -9,8 +9,7 @@
 
             <div class="text-2xl py-4">
                 <a href="https://twitter.com/CrunchMunch_" class="mx-2 hover:brightness-200" title="Twitter"><i class="fab fa-twitter"></i></a>
-                <!-- TODO: Update BlueSky icon to butterfly -->
-                <a href="https://bsky.app/profile/crunchmunch.xyz" class="mx-2 hover:brightness-200" title="Bluesky"><i class="fas fa-cloud"></i></a>
+                <a href="https://bsky.app/profile/crunchmunch.xyz" class="mx-2 hover:brightness-200" title="Bluesky"><img src="/bluesky.svg" class="h-5 inline -translate-y-0.5"></img></a>
                 <a href="https://discord.gg/rMuHUKzKXS" class="mx-2 hover:brightness-200" title="Discord"><i class="fab fa-discord"></i></a>
                 <a href="https://github.com/CrunchMunchCreations" class="mx-2 hover:brightness-200" title="GitHub"><i class="fab fa-github"></i></a>
                 <a href="mailto:crunchmunchcreations@gmail.com" class="mx-2 hover:brightness-200" title="E-mail"><i class="fas fa-envelope"></i></a>
