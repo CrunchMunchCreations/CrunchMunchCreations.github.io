@@ -1,8 +1,8 @@
 <template>
     <Title>Fabled Creatures</Title>
 
-    <div class="w-screen overflow-hidden lg:flex block min-h-screen">
-        <div class="w-full lg:w-1/2 h-1/2 lg:h-[80vh] bg-[#fff3e8] lg:block">
+    <div class="w-screen flex flex-col lg:flex-row min-h-screen">
+        <div class="w-full lg:w-1/2 bg-[#fff3e8] flex flex-col">
             <div class="p-12 mx-auto w-full lg:w-2/3">
                 <h3 class="font-header text-center text-6xl">Fabled Creatures</h3>
             </div>
