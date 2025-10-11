@@ -26,3 +26,7 @@ a:hover {
     filter: brightness(200%);
     text-decoration: underline;
 }
+
+:root {
+    --our-black: #230d05;
+}

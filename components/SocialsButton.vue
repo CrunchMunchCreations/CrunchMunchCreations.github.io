@@ -1,5 +1,5 @@
 <template>
-    <a :href="href" target=”_blank” class="text-[#fffcf3] hover:brightness-125">
+    <a :href="href" target=”_blank” class="text-[#fffcf3] hover:brightness-125 m-1">
         <div :style="`background: ${color}`" class="rounded-full py-2 text-left flex justify-between px-4">
             <span class="mr-4">{{ name }}</span>
             <span><i :class="icon"></i></span>

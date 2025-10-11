@@ -7,7 +7,7 @@
 <style>
     body {
         background-color: #eeeeee;
-        color: #230d05;
+        color: var(--our-black);
     }
 
     body {
@@ -20,7 +20,7 @@
     }
 
     .our-black {
-        color: #230d05;
+        color: var(--our-black);
     }
 </style>
 

@@ -5,8 +5,8 @@
         <div>
             <h1 class="font-header text-8xl">CrunchMunch<br>Creations</h1>
             <p class="text-3xl max-w-4xl py-8">
-                Long text here blah blah blah what was it oh right lorem ipsum dolor sit amet consectetuer adipiscing elit, sed diam
-                nonummy nibh eulsmod tincidunt ut laoreet dolore magna aliquam erat volupat, Ut.
+                CrunchMunch is a creation studio that creates Minecraft events, maps and mods.
+                As a team, we aspire to create unique and inspiring creations that are fun and engaging for the wider Minecraft community.
             </p>
             <img src="/mascots.webp" alt="CrunchMunch Creations mascots representing the team" class="bottom-0">
         </div>

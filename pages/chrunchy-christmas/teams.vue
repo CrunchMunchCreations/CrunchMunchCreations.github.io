@@ -6,7 +6,7 @@
             <h1 class="font-header uppercase text-7xl">Meet the Teams!</h1>
             <p class="text-2xl font-semibold">The teams for the 2025 Chrunchy Christmas event has yet to be announced.</p>
         </div>
-        <div class="rounded-lg bg-[#04231d] p-12 w-4/5 md:w-2/3 3xl:w-1/2 mx-auto flex flex-col">
+        <div class="rounded-lg bg-[#04231d] p-12 w-4/5 md:w-2/3 4xl:w-1/2 mx-auto flex flex-col">
             <TeamInfo name="Team Crimson" id="crimson">
                 <TeamMember url="" name="(unknown)" avatar="unknown_avatar"  />
                 <TeamMember url="" name="(unknown)" avatar="unknown_avatar"  />
@@ -73,3 +73,9 @@ import TeamMember from "~/components/chrunchy-christmas/TeamMember.vue";
 
 setPageLayout('chrunchy-christmas');
 </script>
+
+<style>
+    .4xl:w-1/2 {
+
+    }
+</style>
