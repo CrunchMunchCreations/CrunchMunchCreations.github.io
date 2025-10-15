@@ -73,9 +73,3 @@ import TeamMember from "~/components/chrunchy-christmas/TeamMember.vue";
 
 setPageLayout('chrunchy-christmas');
 </script>
-
-<style>
-    .4xl:w-1/2 {
-
-    }
-</style>
