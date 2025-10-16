@@ -1,6 +1,6 @@
 <template>
     <div class="w-full rounded px-1 m-2 lg:m-12 border-4 md:w-96 relative" style="border-color: var(--our-black);">
-        <img :class="`absolute ${position == 'left' ? 'right' : 'left'}-0 ${image}-0 z-30 h-80`" :src="`/avatars/${id}.webp`" :style="`transform: translate(${position == 'left' ? '+' : '-'}4rem, ${image == 'top' ? '-' : '+'}4rem);`">
+        <img :class="`absolute ${position == 'left' ? 'right' : 'left'}-0 ${image}-0 z-30 h-80`" :src="`/avatars/${id}.webp`" :style="`transform: translate(${position == 'left' ? '+' : '-'}4rem, ${image == 'top' ? '-' : '+'}4rem); pointer-events: none;`">
 
         <div class="text-left text-right float-left float-right hidden md:justify-start md:justify-end left-0 right-0 top-0 bottom-0"></div> <!-- force Tailwind to generate these classes -->
 
