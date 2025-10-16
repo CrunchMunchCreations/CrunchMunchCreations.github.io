@@ -49,9 +49,6 @@
                             with your team.
                         </p>
                     </div>-->
-                    <div class="w-1/4">
-                        <h1 class="font-header text-4xl md:text-7xl uppercase">Trailer Coming Soon</h1>
-                    </div>
                 </div>
                 <div class="text-center w-2/3 lg:w-1/4 mx-auto my-12">
                     <h1 class="font-header text-4xl md:text-7xl">The Joy of Giving</h1>
