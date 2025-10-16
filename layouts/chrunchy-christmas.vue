@@ -46,7 +46,7 @@ useHead({
         },
         {
             property: 'og:image',
-            content: 'https://crunchmunch.xyz/chompers.png'
+            content: 'https://crunchmunch.xyz/logo_green.png'
         },
         {
             property: 'og:url',
@@ -70,7 +70,7 @@ useHead({
         },
         {
             name: 'twitter:image',
-            content: 'https://crunchmunch.xyz/chompers.png'
+            content: 'https://crunchmunch.xyz/logo_green.png'
         }
     ],
     titleTemplate: '%s - Chrunchy Christmas - CrunchMunch Creations'
