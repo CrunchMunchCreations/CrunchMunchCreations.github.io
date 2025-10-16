@@ -20,7 +20,6 @@
 
     body {
         font-family: 'Bree Serif', 'Segoe UI', sans-serif;
-        overflow-x: hidden;
     }
 
     .font-header {

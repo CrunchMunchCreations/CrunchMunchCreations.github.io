@@ -11,7 +11,6 @@ body {
 
 body {
     font-family: 'Montserrat', 'Roboto', 'Segoe UI', sans-serif;
-    overflow-x: hidden;
 }
 
 .font-header {
