@@ -21,7 +21,7 @@
                         <li><a href="https://www.thetrevorproject.org/" target="_blank">The Trevor Project</a></li>
                         <li><a href="https://www.wwf.org.uk/" target="_blank">Worldwide Fund for Nature (WWF)</a></li>
                     </ul>
-
+                    <br>
                     By donating £35 or more to Jingle Jam, supporters will be given access to the Jingle Jam Games Collection.
                     The Games Collection is a unique reward curated by Jingle Jam, typically featuring 14-18 premium games in a mix of genres.
                 </div>
