@@ -20,7 +20,7 @@
                 Be careful, they’re very light sleepers!
             </Letter>
 
-            <Letter class="rotate-3" name="Mace Race" image="sneaking.jpg" stamp="top">
+            <Letter class="rotate-3" name="Mace Race" image="mace_race.png" stamp="top">
                 Propel yourself around the snowy mountain range with a mace!
                 Soar through the air to show off your adaptability and determination!
             </Letter>
@@ -30,7 +30,7 @@
                 Pay close attention though, the crafting process may be more complicated than you think.
             </Letter>
 
-            <Letter class="rotate-3" name="Dear Santa" image="sneaking.jpg" stamp="top">
+            <Letter class="rotate-3" name="Dear Santa" image="letters.png" stamp="top">
                 An accident has caused all the letters to Santa to go flying across a snowy tundra!
                 Find the letters quickly and complete tasks to save as many as possible and get them back to the train headed for the North Pole!
             </Letter>
