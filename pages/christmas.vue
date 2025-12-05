@@ -1,6 +1,6 @@
 <template>
     <div class="text-center h-[70vh] text-4xl my-14 min-h-screen">
-        Redirecting to Tiltify... If you have not been redirected, click <a class="underline" href="https://tilt.fyi/dnWwXvSGAx">here</a>.
+        Redirecting to Tiltify... If you have not been redirected, click <a class="underline" href="https://tilt.fyi/5Jv0ZIgmQX">here</a>.
     </div>
 </template>
 
@@ -11,7 +11,7 @@
                 meta: [
                     {
                         "http-equiv": 'refresh',
-                        content: '0; url=\'https://tilt.fyi/dnWwXvSGAx\''
+                        content: '0; url=\'https://tilt.fyi/5Jv0ZIgmQX\''
                     }
                 ]
             });
