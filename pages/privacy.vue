@@ -4,7 +4,7 @@
     <div class="w-screen text-center min-h-screen">
         <div class="w-3/4 md:w-1/2 mx-auto">
             <h3 class="font-header our-black text-5xl mt-12">Privacy Policy</h3>
-            <h5 class="our-black text-2xl my-8">Last updated 4th October 2025</h5>
+            <h5 class="our-black text-2xl my-8">Last updated 5th December 2025</h5>
 
             <div class="text-xl">
                 <div class="my-8">
@@ -38,6 +38,8 @@
                         <li>profile picture</li>
                         <li>social links, such as YouTube, Twitch and Twitter</li>
                         <li>IP address (if you join one of our Minecraft servers)</li>
+                        <li>Computer hardware configuration, such as your available memory and your graphics card information</li>
+                        <li>Minecraft modpack configuration, such as your installed mods and current Minecraft version</li>
                         <li>publicly available information, such as your public profile information or stream analytics</li>
                     </ul>
 
@@ -51,6 +53,7 @@
                         <li>send you information about the events you are participating in</li>
                         <li>promote you and your social media links on our website and socials</li>
                         <li>collect feedback</li>
+                        <li>improve minigame functionality and determine potential causes towards problems</li>
                         <li>provide a safe and comfortable environment for everyone involved in CrunchMunch Creations and CrunchMunch Creations-partnered events</li>
                     </ul>
 
@@ -132,6 +135,13 @@
                                 <td>Minecraft Server Hosting</td>
                                 <td>
                                     <a href="https://bloom.host/privacy-policy/" class="underline">Bloom Host</a>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td>Minecraft Server Proxying</td>
+                                <td>
+                                    <a href="https://tcpshield.com/privacy.pdf" class="underline">TCPShield</a>
                                 </td>
                             </tr>
 
