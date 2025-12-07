@@ -29,6 +29,8 @@
                     It was held for a second year on the 13th and 14th December 2024 in collaboration with Jinglecrafters, where we raised a total of £1000 over the two days, hitting our goal!
                     <br><br>
                     <strong>Chrunchy Christmas 2025</strong> - To be announced...
+                    <br><br>
+                    More information: <NuxtLink to="/chrunchy-christmas" class="underline">Chrunchy Christmas</NuxtLink>
                 </p>
             </div>
         </div>
