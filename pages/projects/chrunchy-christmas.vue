@@ -30,7 +30,7 @@
                     <br><br>
                     <strong>Chrunchy Christmas 2025</strong> - To be announced...
                     <br><br>
-                    More information: <NuxtLink to="/chrunchy-christmas" class="underline">Chrunchy Christmas</NuxtLink>
+                    More information: <a href="/chrunchy-christmas" class="underline">Chrunchy Christmas</a>
                 </p>
             </div>
         </div>
