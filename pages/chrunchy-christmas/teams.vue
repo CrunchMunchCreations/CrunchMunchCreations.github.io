@@ -18,8 +18,8 @@
                 <TeamMember url="https://twitch.tv/galaxushii" name="Galaxushii" avatar="galaxushii"  />
             </TeamInfo>
             <TeamInfo name="Team Orange" id="orange">
+                <TeamMember url="https://twitch.tv/ascottishbean" name="ascottishbean" avatar="ascottishbean"  />
                 <TeamMember url="https://twitch.tv/mysticatmewo" name="mysticat" avatar="mysticat"  />
-                <TeamMember url="https://twitch.tv/pheeabee" name="pheeabee" avatar="pheeabee"  />
                 <TeamMember url="https://twitch.tv/wadebox" name="WadeBox" avatar="wadebox"  />
             </TeamInfo>
             <TeamInfo name="Team Yellow" id="yellow">
