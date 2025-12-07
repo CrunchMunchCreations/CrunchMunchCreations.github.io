@@ -39,7 +39,18 @@
             <div class="my-8">
                 <h2 class="font-header text-3xl uppercase">Donation Milestones</h2>
                 <p>
-                    (To be announced)
+                    £100 - Cosmetics Unlock in Game
+                    £200 - Cosmetics Unlock in Game
+                    £300 - Cosmetics Unlock in Game
+                    £350 - <strong>Chaotic Mode Enabled - Don't Wake Peepaw!</strong>
+                    £400 - Cosmetics Unlock in Game
+                    £500 - Cosmetics Unlock in Game
+                    £600 - Cosmetics Unlock in Game
+                    £700 - Cosmetics Unlock in Game
+                    £750 - <strong>Chaotic Mode Enabled - Mace Race</strong>
+                    £800 - Cosmetics Unlock in Game
+                    £900 - Cosmetics Unlock in Game
+                    £1,000 - Legendary Cosmetics Unlock in Game
                 </p>
             </div>
         </div>
