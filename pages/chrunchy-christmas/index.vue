@@ -15,7 +15,7 @@
             <div class="flex w-full justify-center flex-col text-center">
                 <img src="/projects/chrunchy-christmas/chrunchy_logo.svg" class="h-72">
                 <h1 class="font-header text-4xl md:text-8xl uppercase my-4" style="word-spacing: 100vw;">
-                    Chrunchy Christmas 2025
+                    Chrunchy Christmas 2026
                 </h1>
             </div>
         </div>

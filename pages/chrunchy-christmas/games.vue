@@ -10,7 +10,8 @@
                 </p>
             </div>
 
-            <Letter class="rotate-3" name="Sledge to the Edge!" image="sled_racing.jpg" stamp="top">
+            To be determined!
+            <!--<Letter class="rotate-3" name="Sledge to the Edge!" image="sled_racing.jpg" stamp="top">
                 Compete against your fellow elves to sledge around the icy course to demonstrate your skill, speed, perseverance and accuracy!
                 Don't forget to collect the "Jingles" as you go!
             </Letter>
@@ -33,7 +34,7 @@
             <Letter class="rotate-3" name="Dear Santa" image="letters.png" stamp="top">
                 An accident has caused all the letters to Santa to go flying across a snowy tundra!
                 Find the letters quickly and complete tasks to save as many as possible and get them back to the train headed for the North Pole!
-            </Letter>
+            </Letter>-->
         </div>
     </div>
 </template>

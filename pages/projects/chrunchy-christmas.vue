@@ -26,9 +26,11 @@
                     Chrunchy Christmas was first held on the 9th of December 2023, hosted alongside <a href="https://wraithstation.com" class="underline" target="_blank">WraithStation</a> and <a href="https://vandal-events.gitlab.io" class="underline" target="_blank">Vandal Events</a>,
                     raising a total of £650, surpassing our goal of £500.
                     <br><br>
-                    It was held for a second year on the 13th and 14th December 2024 in collaboration with Jinglecrafters, where we raised a total of £1000 over the two days, hitting our goal!
+                    It was held for a second year on the 13th and 14th of December 2024 in collaboration with Jinglecrafters, where we raised a total of £1,000 over the two days, hitting our goal!
                     <br><br>
-                    <strong>Chrunchy Christmas 2025</strong> - To be announced...
+                    It was then held for a third year on the 7th of December 2025, where we raised a total of £1,127, surpassing our goal of £1,000!
+                    <br><br>
+                    <strong>Chrunchy Christmas 2026</strong> - To be announced...
                     <br><br>
                     More information: <a href="/chrunchy-christmas" class="underline">Chrunchy Christmas</a>
                 </p>

@@ -11,7 +11,9 @@
                 <div>
                     Jingle Jam is an annual fundraiser that aims to support charities that are making a difference in the world for children and young people.
                     This year, it's uniting  games, creators and their communities to raise money for the following charities:
-                    <ul class="list-disc list-inside">
+                    <br>
+                    (TBD)
+                    <!--<ul class="list-disc list-inside">
                         <li><a href="https://www.thecalmzone.net/" target="_blank">Campaign Against Living Miserably (CALM)</a></li>
                         <li><a href="https://www.warchild.org.uk/" target="_blank">War Child</a></li>
                         <li><a href="https://www.autistica.org.uk/" target="_blank">Autistica</a></li>
@@ -20,7 +22,7 @@
                         <li><a href="https://worldwish.org/" target="_blank">Make-A-Wish</a></li>
                         <li><a href="https://www.thetrevorproject.org/" target="_blank">The Trevor Project</a></li>
                         <li><a href="https://www.wwf.org.uk/" target="_blank">Worldwide Fund for Nature (WWF)</a></li>
-                    </ul>
+                    </ul>-->
                     <br>
                     By donating £35 or more to Jingle Jam, supporters will be given access to the Jingle Jam Games Collection.
                     The Games Collection is a unique reward curated by Jingle Jam, typically featuring 14-18 premium games in a mix of genres.
@@ -32,6 +34,7 @@
                 <p>
                     In 2023, we were proud to surpass our £500 goal and raise £650 for Jingle Jam, far beyond our hopes for the first year of Chrunchy Christmas, which we were incredibly grateful for.<br><br>
                     In 2024, we successfully reached our stretch goal of £1,000, contributing to the overall Jinglecrafters campaign, which reached £3,245!<br><br>
+                    In 2025, we managed to surpass our £1,000 goal and raise £1,127 for Jingle Jam!
                     This year, we once again hope to reach our goal of £1,000 with the help of the many creators involved in Chrunchy Christmas.
                 </p>
             </div>
@@ -39,7 +42,7 @@
             <div class="my-8">
                 <h2 class="font-header text-3xl uppercase">Donation Milestones</h2>
                 <p>
-                    £100 - Cosmetics Unlock in Game
+                    <!--£100 - Cosmetics Unlock in Game
                     £200 - Cosmetics Unlock in Game
                     £300 - Cosmetics Unlock in Game
                     £350 - <strong>Chaotic Mode Enabled - Don't Wake Peepaw!</strong>
@@ -50,7 +53,8 @@
                     £750 - <strong>Chaotic Mode Enabled - Mace Race</strong>
                     £800 - Cosmetics Unlock in Game
                     £900 - Cosmetics Unlock in Game
-                    £1,000 - Legendary Cosmetics Unlock in Game
+                    £1,000 - Legendary Cosmetics Unlock in Game-->
+                    (TBD)
                 </p>
             </div>
         </div>

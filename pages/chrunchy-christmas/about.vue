@@ -18,11 +18,13 @@
             <div class="my-8">
                 <h2 class="font-header text-3xl uppercase">Charity</h2>
                 <div>
-                    Our fundraiser for 2025 is Jingle Jam! CrunchMunch has always appreciated how Jingle Jam makes an effort to support a variety of charities that we hold close,
+                    Our fundraiser for 2026 is Jingle Jam! CrunchMunch has always appreciated how Jingle Jam makes an effort to support a variety of charities that we hold close,
                     and as Christmas is the time of giving, we hope to support them to the best of our ability!
                     <br><br>
-                    The charities that Jingle Jam 2025 are raising money for are:
+                    The charities that Jingle Jam 2026 are raising money for are:
                     <br>
+                    (TBD)
+                    <!--<br>
                     <ul class="list-disc list-inside">
                         <li><a href="https://www.thecalmzone.net/" target="_blank">Campaign Against Living Miserably (CALM)</a></li>
                         <li><a href="https://www.warchild.org.uk/" target="_blank">War Child</a></li>
@@ -32,15 +34,15 @@
                         <li><a href="https://worldwish.org/" target="_blank">Make-A-Wish</a></li>
                         <li><a href="https://www.thetrevorproject.org/" target="_blank">The Trevor Project</a></li>
                         <li><a href="https://www.wwf.org.uk/" target="_blank">Worldwide Fund for Nature (WWF)</a></li>
-                    </ul>
+                    </ul>-->
                 </div>
             </div>
 
             <div class="my-8">
                 <h2 class="font-header text-3xl uppercase">Previous Events</h2>
                 <p>
-                    This is our third year of Chrunchy Christmas, we started hosting in 2023 with the greatly appreciated support of WraithStation.
-                    Last year, we were a part of Jinglecrafters, a collaborative fundraising project to raise money for Jingle Jam 2024.
+                    This is our fourth year of Chrunchy Christmas, we started hosting in 2023 with the greatly appreciated support of WraithStation.
+                    In 2024, we were a part of Jinglecrafters, a collaborative fundraising project to raise money for Jingle Jam 2024.
                 </p>
             </div>
         </div>
